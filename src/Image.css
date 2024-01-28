@@ -1,0 +1,8 @@
+.image-container{
+    margin: 0.2rem;
+}
+.gallery-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 0.7rem;
+}

@@ -1,0 +1,24 @@
+.image-gallery-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #3f01aa;
+    border-radius: 1rem;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    margin: 1rem;
+    color: #fff;
+    font-family:cursive
+}
+.photo{
+    width: 40vw;
+    height: 80vh;
+    border-radius: 1rem;
+}
+.title{
+    font-size: 30px;
+    padding-left: 4rem;
+}
+.description{
+    padding-left: 4rem ;
+}

@@ -1,0 +1,10 @@
+.image-wrapper{
+    margin: 0 auto;
+}
+.image-list-wrapper{
+    margin-top: 0.4rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
